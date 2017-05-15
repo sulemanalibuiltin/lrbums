@@ -7,7 +7,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Login - District ADP</title>
+    <title>LRBUMS</title>
 
     <!-- Global stylesheets -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet"
@@ -61,7 +61,7 @@
         <a href="{{ URL::to('/') }}" class="navbar-brand logo"
            style="width: 100%; font-size: 17px; pointer-events: none; cursor: default;">
             {{--<i class="icon-adjust icon-c-logo">
-            </i>--}}<span class="text-capitalize">Baluchistan <span style="font-weight: normal; font-style: italic">Domicile System</span></span></a>
+            </i>--}}<span class="text-capitalize">Baluchistan <span style="font-weight: normal; font-style: italic">LRBUMS</span></span></a>
 
         {{--<ul class="nav navbar-nav pull-right visible-xs-block">
             <li><a data-toggle="collapse" data-target="#navbar-mobile"><i class="icon-tree5"></i></a></li>
