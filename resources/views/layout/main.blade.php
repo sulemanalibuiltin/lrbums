@@ -159,7 +159,7 @@
                     </i> ADP</span></a>--}}
         <a href="{{ route('home') }}" class="navbar-brand logo" style="font-size: 17px; letter-spacing: 0px; padding: 0px; padding-top: 4px;">
             {{--<i class="icon-adjust icon-c-logo">
-            </i>--}}<span class="text-capitalize">Baluchistan <span style="font-weight: normal; font-style: italic">Domicile System</span></span></a>
+            </i>--}}<span class="text-capitalize">LRBUMS</span></span></a>
 
         <ul class="nav navbar-nav visible-xs-block">
             {{--<li><a data-toggle="collapse" data-target="#navbar-mobile"><i class="icon-tree5"></i></a></li>--}}
