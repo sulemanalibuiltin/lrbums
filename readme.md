@@ -2,9 +2,9 @@
 
 ## Setup
 
-1: Download or clone the repository
-2: Import database (from DB directory)
-3: Super Admin username/password (waqarakbar89/123456)
+- Download or clone the repository
+- Import database (from DB directory)
+- Super Admin username/password (waqarakbar89/123456)
 
 
 ## About Laravel
