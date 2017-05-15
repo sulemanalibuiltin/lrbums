@@ -5,6 +5,7 @@
 - Download or clone the repository
 - Import database (from DB directory)
 - Super Admin username/password (waqarakbar89/123456)
+- Regenerate App key by running command "php artisan key:generate"
 
 
 ## About Laravel
